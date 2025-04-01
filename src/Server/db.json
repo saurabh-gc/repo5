@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "name": "saurabh",
+      "email": "skc@gmail.com",
+      "city": "Ayodhya",
+      "id": "54d5"
+    },
+    {
+      "id": "0aa7",
+      "name": "Ritu Rathore",
+      "email": "riturathore@gmail.com",
+      "city": "Pune"
+    },
+    {
+      "id": "4948",
+      "name": "Priya Singh",
+      "email": "priyasingh@gmail.com",
+      "city": "Bhopal"
+    },
+    {
+      "id": "80b6",
+      "name": "Rishabh Srivastava",
+      "email": "rishu@gmail.com",
+      "city": "Bangalore"
+    }
+  ]
+}
